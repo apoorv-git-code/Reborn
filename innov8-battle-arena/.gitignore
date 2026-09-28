@@ -1,0 +1,11 @@
+# Ignore local state and logs
+state.json
+arena_logs/
+*.log
+
+# Ignore environment variables
+.env
+
+# Python caches
+__pycache__/
+*.pyc
